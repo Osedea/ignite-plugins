@@ -115,6 +115,11 @@
     "author": "Gant Laborde",
     "url": "https://github.com/GantMan/ignite-source-map"
   },
+  "ignite-splashscreen": {
+    "description": "A plugin to add a Native Splashscreen to your app and control it from JS",
+    "author": "Adrien Thiery",
+    "url": "https://github.com/osedea/ignite-splashscreen"
+  },
   "ignite-tab-view": {
     "description": "An Ignite plugin which generates a React Native tab view.",
     "author": "Nader Dabit",
